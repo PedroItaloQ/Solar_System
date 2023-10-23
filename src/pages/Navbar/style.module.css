@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    background-color: rgb(82, 85, 85);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar p{
+    margin: 40px;
+    cursor: pointer;
+}

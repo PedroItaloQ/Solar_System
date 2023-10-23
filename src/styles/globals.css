@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../../public/images/universe.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Isso faz com que a imagem de fundo fique fixa na tela */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
